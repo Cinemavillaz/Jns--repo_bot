@@ -66,7 +66,7 @@ Join on our channel to get movies ✅
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/JNS_BOTS"
+                                    '⭕️ Join ⭕️', url="https://t.me/cv_updatez"
                                 )
                         ]
                     ]
