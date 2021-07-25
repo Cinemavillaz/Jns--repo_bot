@@ -2,15 +2,12 @@
 # -*- coding: utf-8 -*-
 # (c) @AlbertEinsteinTG
 
-class Translation(object):
-    
-    START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
+class Translation(objgithubsoursecodeTART_TEXT = """<b>Hey {}!!</b>
+<i>ഞാൻ 𝗰𝗶𝗻𝗲𝗺𝗮 𝙫𝙞𝙡𝗹𝗮 എന്ന ഗ്രൂപ്പിൽ മൂവീസ് കൊടുക്കുന്ന ബോട്ട് ആണ്...
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+<b>നോക്കണ്ടാ എന്നെ മറ്റു ഗ്രൂപ്പിൽ ഒന്നും ഉപയോഗിക്കാൻ കഴിയുകയില്ല</b> <a href="https://t.me/cv_updatez"> 
 
-For More Details Click Help Button Below..
-<b>♕ 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 ♛</b> <a href="https://t.me/JNS_BOTS">ＪƝ⟆ ᗷ〇Ƭ⟆</a>
+<b>ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ</b> <a href="https://t.me/Cv_groupAdmin2">𝚃𝚑𝚒𝚜 𝚙𝚎𝚛𝚜𝚘𝚗</a>
 </i>"""    
     
     HELP_TEXT = """
@@ -44,19 +41,19 @@ For More Details Click Help Button Below..
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
 
 
-<b>♕ 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 ♛</b> <a href="https://t.me/jns_bots">ＪƝ⟆ ᗷ〇Ƭ⟆</a>        
+<b>♕ 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 ♛</b> <a href="https://t.me/cv_updatez">🅲🆅🆄🅿🅳🅰🆃🅴🆂</a>        
 """
     
     ABOUT_TEXT = """
-🤖 𝗠𝗬 𝗡𝗔𝗠𝗘 : <a href="https://t.me/JNS_AUTOFILTER_BOT">JNS AUTOFILTER BOT</a>
+🤖 𝗠𝗬 𝗡𝗔𝗠𝗘 : <a href="https://t.me/cv_songs">AUTOFILTER BOT</a>
 
-📣𝗖𝗛𝗔𝗡𝗡𝗘𝗟 : <a href="https://t.me/jns_bots">ＪƝ⟆ ᗷ〇Ƭ⟆</a>
+📣𝗖𝗛𝗔𝗡𝗡𝗘𝗟 : <a href="https://t.me/cv_updatez">🅲🆅🆄🅿🅳🅰🆃🅴🆂</a>
 
-👲 𝗗𝗘𝗩𝗟𝗢𝗣𝗘𝗥 : <a href="https://t.me/jintons">JINTO NS</a>❤
+👲 𝗗𝗘𝗩𝗟𝗢𝗣𝗘𝗥 : <a href="https://t.me/Randy_Ortan_TG">🅁🄰🄽🄳🅈🄾🅁🅃🄰🄽</a>❤
 
 📜𝗟𝗔𝗡𝗚𝗨𝗔𝗚𝗘 : <a href="https://www.python.org/">Python3</a>
 
-✨𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : <a href="https://t.me/githubsoursecode">CLICK</a>
+✨𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : <a href="https://t.me/cv_updatez">🔐</a>
 
 📮 𝗙𝗥𝗔𝗠𝗘𝗪𝗢𝗥𝗞 : <a href="https://github.com/pyrogram/pyrogram">PYROGRAM</a>
 """
