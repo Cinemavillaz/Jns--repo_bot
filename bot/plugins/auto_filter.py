@@ -147,13 +147,13 @@ async def auto_filter(bot, update):
         if len_result != 1:
             result[0].append(
                 [
-                    InlineKeyboardButton("Next ⏩", callback_data=f"navigate(0|next|{query})")
+                    InlineKeyboardButton("അടുത്ത പേജിലേക് പോയാലോ ->>", callback_data=f"navigate(0|next|{query})")
                 ]
             )
         
         # Just A Decaration
         result[0].append([
-            InlineKeyboardButton(f"🔰 Page 1/{len_result if len_result < max_pages else max_pages} 🔰", callback_data="ignore")
+            InlineKeyboardButton(f"🗞️ പേജുകൾ 1/{len_result if len_result < max_pages else max_pages} 🔶", callback_data="ignore")
         ])
         
         
@@ -201,9 +201,10 @@ async def auto_filter(bot, update):
         reply_markup = InlineKeyboardMarkup(result[0])
 
         try:
-            await bot.send_message(
+            await bot.send_photo(
                 chat_id = update.chat.id,
-                text=f"Found {(len_results)} Results For Your Query: <code>{query}</code>",
+                photo="https://telegra.ph/file/5fcc55f98020dc6e4bcf3.jpg",
+                caption=f"എനിക്ക് നീ ചോദിച്ച ഫയൽന്റെ : <code>{query}</code> റിസൾട്ട്‌ ആയി ഇത്രെയും ഫയൽസ് 🗃️ {(len_results)}  കിട്ടി ♌️",
                 reply_markup=reply_markup,
                 parse_mode="html",
                 reply_to_message_id=update.message_id
